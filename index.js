@@ -10,8 +10,8 @@ const port = 3000;
 
 cloudinary.config({
     cloud_name: "ddzqkln93",
-    api_key: "",
-    api_secret: ""
+    api_key: "134179754639625",
+    api_secret: "XBOklPz9WLRiHoRZRVxphrm9GcY"
 });
 
 const storage = multer.memoryStorage();
